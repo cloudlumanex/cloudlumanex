@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emmanuel Ulu (cloudlumanex)
-- 👀 I’m interested in  becoming a Cloud Devops Engineer
+- 👀 I’m interested in becoming a Cloud DevOps Engineer
 - 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on Cloud Devops Engineers
+- 💞️ I’m looking to collaborate with Cloud DevOps Engineers
 - 📫 How to reach me emmanuel.ulu07@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: playing soccer ⚽
