@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a Cloud DevOps Engineer
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate with Cloud DevOps Engineers
-- 📫 How to reach me emmanuel.ulu07@gmail.com
+- 📫 How to reach me techlumanex@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: playing soccer ⚽
 
