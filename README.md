@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel
-- 👀 I’m interested in collaborating nd helping software teams achieve their goals
+- 👀 I’m interested in collaborating and helping software teams achieve their goals
 - 🌱 I’m currently learning DevOps and passionate about all new upcoming technologies
 - 📫 How to reach me? techlumanex@gmail.com or techlumanex@outlook.com
 
