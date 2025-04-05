@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Emmanuel Ulu (cloudlumanex)
-- 👀 I’m interested in SDLC
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate with Cloud DevOps Engineers
-- 📫 How to reach me? techlumanex@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: playing soccer ⚽
+- 👋 Hi, I’m Emmanuel
+- 👀 I’m interested in collaborating nd helping software teams achieve their goals
+- 🌱 I’m currently learning DevOps and passionate about all new upcoming technologies
+- 📫 How to reach me? techlumanex@gmail.com or techlumanex@outlook.com
 
 <!---
 cloudlumanex/cloudlumanex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
