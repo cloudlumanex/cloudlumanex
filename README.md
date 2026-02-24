@@ -1,16 +1,72 @@
-👋 Hi, I’m Emmanuel Ulu
+# Emmanuel Ulu | DevOps Engineer
+Production-focused DevOps engineer specializing in Kubernetes, cloud-native infrastructure, and scalable system design.
 
-🚀 DevOps Engineer focused on building reliable, secure, and scalable cloud infrastructure.
+I build and deploy production-style environments with observability, security controls, and automated scaling.
 
-🔧 I work with cloud platforms, CI/CD pipelines, containerization, and infrastructure automation to help teams move faster with confidence.
+## 🚀 Flagship Project
 
-🌱 Currently deepening my skills in AWS, Kubernetes, Terraform, and DevSecOps while building hands-on projects and real-world labs.
+Kubernetes Production App.
 
-🤝 Open to collaborating on DevOps, cloud, and automation projects.
+3-Tier Production Deployment on Kubernetes.
 
-📫 Reach me at: techlumanex@gmail.com | techlumanex@outlook.com | emmanuel.ulu07@gmail.com
+Repository: https://github.com/Emmanuel-DevOps-Portfolio/k8s-production-app.com
 
-<!---
-cloudlumanex/cloudlumanex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Highlights:
+- Namespace-based workload isolation
+- RBAC with least-privilege enforcement
+- NetworkPolicies for controlled pod traffic
+- Horizontal Pod Autoscaler (HPA)
+- Liveness & readiness probes
+- Prometheus & Grafana observability stack
+- Helm-based deployment option
+- Production debugging (CrashLoopBackOff, probe failures, selector mismatches)
+
+This project demonstrates practical Kubernetes operations beyond basic YAML deployments.
+
+## 🛠 Core Technical Stack
+
+Containerization & Orchestration
+
+- Kubernetes
+
+- Helm
+
+- Docker
+
+## Observability
+
+- Prometheus
+
+- Grafana
+
+## Infrastructure & Operations
+
+- Linux
+
+- Networking fundamentals
+
+- RBAC & security policies
+
+- Cluster debugging & reconciliation analysis
+
+## 📈 What I Focus On
+
+- Production-grade Kubernetes deployments
+
+- Infrastructure as Code (IaC)
+
+- Secure cluster architecture
+
+- Observability-driven operations
+
+- Real-world debugging scenario
+
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/emmanuelulu/
+
+- Email emmanuel.ulu07@gmail.com
+
+
+
+
