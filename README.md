@@ -9,7 +9,7 @@ Kubernetes Production App.
 
 3-Tier Production Deployment on Kubernetes.
 
-Repository: https://github.com/Emmanuel-DevOps-Portfolio/k8s-production-app.com
+Repository: https://github.com/Emmanuel-DevOps-Portfolio/k8s-production-app
 
 ## Highlights:
 - Namespace-based workload isolation
